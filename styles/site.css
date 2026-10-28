@@ -11,8 +11,8 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .lead-muted { color: var(--pm-muted); }
 
 /* ---------- home ---------- */
-.hero { display: flex; gap: 2rem; align-items: center; margin: 1.5rem 0 1.5rem; }
-.hero-photo { width: 184px; height: 230px; border-radius: 10px; object-fit: cover; flex: 0 0 auto; }
+.hero { display: flex; gap: 2rem; align-items: center; margin: 1.5rem 0 2.25rem; }
+.hero-photo { width: 156px; height: 156px; border-radius: 50%; object-fit: cover; flex: 0 0 auto; }
 .hero-monogram {
   width: 132px; height: 132px; border-radius: 50%; flex: 0 0 auto;
   display: grid; place-items: center;
@@ -29,7 +29,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .profile-links a:hover { text-decoration: none; filter: brightness(0.97); }
 @media (max-width: 575px) {
   .hero { flex-direction: column; align-items: flex-start; gap: 1rem; }
-  .hero-photo { width: 160px; height: 200px; }
+  .hero-photo { width: 128px; height: 128px; }
   .hero-monogram { width: 104px; height: 104px; font-size: 2rem; }
 }
 
