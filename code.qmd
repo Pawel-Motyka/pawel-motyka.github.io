@@ -1,0 +1,15 @@
+---
+title: "Code & data"
+---
+
+Analysis code, preprocessed data and rendered R Markdown reports for each study are available on [GitHub](https://github.com/Pawel-Motyka). Preregistrations and project materials are on [OSF](https://osf.io/56x6t).
+
+<ul class="repo-list">
+<li><a href="https://github.com/Pawel-Motyka/MDS_ASC"><code>MDS_ASC</code></a> – mapping the space of altered states of consciousness (MDS, PCA, UMAP, t-SNE)</li>
+<li><a href="https://github.com/Pawel-Motyka/SMCVR"><code>SMCVR</code></a> – sensorimotor spatial dependencies and conscious access to virtual 3D objects (<a href="https://doi.org/10.1016/j.concog.2025.103934">Consciousness and Cognition, 2025</a>)</li>
+<li><a href="https://github.com/Pawel-Motyka/OPTVR"><code>OPTVR</code></a> – perceptual awareness of optic flows paced to walking speed (<a href="https://doi.org/10.1177/03010066211034368">Perception, 2021</a>)</li>
+<li><a href="https://github.com/Pawel-Motyka/SMPVR"><code>SMPVR</code></a> – forward optic flow and walking direction in binocular rivalry (<a href="https://doi.org/10.1371/journal.pone.0250905">PLoS ONE, 2021</a>)</li>
+<li><a href="https://github.com/Pawel-Motyka/RHI_TD"><code>RHI_TD</code></a> – touch, visuo-proprioceptive divergence and the rubber hand illusion (<a href="https://doi.org/10.1371/journal.pone.0244594">PLoS ONE, 2020</a>)</li>
+<li><a href="https://github.com/Pawel-Motyka/CCSomato"><code>CCSomato</code></a> – cardiac activity and conscious somatosensory perception (<a href="https://doi.org/10.1111/psyp.13424">Psychophysiology, 2019</a>)</li>
+<li><a href="https://github.com/Pawel-Motyka/RHI_proprioception"><code>RHI_proprioception</code></a> – proprioceptive precision and the rubber hand illusion (<a href="https://doi.org/10.1177/0301006619865189">Perception, 2019</a>)</li>
+</ul>

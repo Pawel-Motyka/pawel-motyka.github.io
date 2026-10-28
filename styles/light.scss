@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+$body-bg: #fbfaf7;
+$body-color: #1f1e1c;
+$primary: #4a3d8f;
+$link-color: #4a3d8f;
+$navbar-bg: #fbfaf7;
+$navbar-fg: #1f1e1c;
+$navbar-hl: #4a3d8f;
+$footer-bg: #fbfaf7;
+$footer-fg: #6b6863;
+$border-color: #e4e1da;
+$text-muted: #6b6863;
+
+$font-family-sans-serif: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+$headings-font-family: "Source Serif 4", Georgia, serif;
+$headings-font-weight: 500;
+$font-size-root: 17px;
+$line-height-base: 1.6;
+
+/*-- scss:rules --*/
+:root {
+  --pm-muted: #6b6863;
+  --pm-rule: #e4e1da;
+  --pm-accent: #4a3d8f;
+  --pm-badge-bg: #efecf8;
+  --pm-badge-fg: #3b3175;
+  --pm-badge-border: #d9d3f0;
+}

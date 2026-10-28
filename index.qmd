@@ -1,0 +1,44 @@
+---
+pagetitle: "Paweł Motyka"
+title-block-banner: false
+---
+
+```{=html}
+<div class="hero">
+  <!-- To use a photo: put it in assets/photo.jpg and replace the next line with
+       <img class="hero-photo" src="assets/photo.jpg" alt="Paweł Motyka"> -->
+  <div class="hero-monogram" aria-hidden="true">PM</div>
+  <div>
+    <div class="hero-name">Paweł Motyka</div>
+    <p class="role">Assistant professor, Institute of Psychology, Polish Academy of Sciences<br>
+    Virtual Reality and Psychophysiology Lab</p>
+    <div class="profile-links">
+      <a href="https://orcid.org/0000-0001-5575-5601">ORCID</a>
+      <a href="https://osf.io/56x6t">OSF</a>
+      <a href="https://github.com/Pawel-Motyka">GitHub</a>
+      <a href="https://bsky.app/profile/pawelmotyka.bsky.social">Bluesky</a>
+      <a href="mailto:pmotyka@psych.pan.pl">pmotyka@psych.pan.pl</a>
+    </div>
+  </div>
+</div>
+```
+
+I study the structure of conscious experience and how it changes across ordinary and altered states. My work sits between consciousness science, psychophysiology and virtual reality: I use immersive VR to manipulate perception under controlled conditions, record bodily signals alongside it, and model first-person reports quantitatively to recover the dimensions along which experiences differ.
+
+I trained in psychology and philosophy of mind at the University of Warsaw and received my PhD in 2022. I have carried out research stays at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, the Sussex Centre for Consciousness Science, and the Center for Human Nature, Artificial Intelligence and Neuroscience (CHAIN) at Hokkaido University.
+
+## Research
+
+**The space of altered states.** Which dimensions organise the landscape of human-accessible states of consciousness? I approach this bottom-up, by modelling subjective dissimilarities between remembered experiences as distances in a geometric space.
+
+**Simulated hallucinations in VR.** I develop immersive simulations of phenomenologically distinct visual hallucinations of graded intensity and use them to study the subjective and physiological effects of altered perception.
+
+**Body, action and awareness.** Earlier work examined how cardiac activity, proprioception and locomotion shape what reaches visual and somatosensory awareness, and how sensorimotor regularities affect conscious access to objects.
+
+**First-person reports as data.** With students, I apply natural language processing to large collections of first-person reports of altered states.
+
+All studies are preregistered where possible, and code and data are shared openly – see [Code & data](code.qmd).
+
+## Teaching
+
+I teach *Consciousness Science: Phenomena and Mechanisms* at the University of Warsaw.

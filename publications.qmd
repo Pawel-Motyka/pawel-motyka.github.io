@@ -1,0 +1,22 @@
+---
+title: "Publications"
+listing:
+  id: pubs
+  contents: publications.yml
+  template: _publications.ejs
+  sort: "year desc"
+  sort-ui: false
+  filter-ui: false
+  page-size: 200
+---
+
+::: {#pubs}
+:::
+
+## Selected talks
+
+**Subjective and physiological effects of phenomenologically distinct simulated hallucinations in virtual reality.** Motyka, P., Gacka, M., Ayres, C., Karasek, Pochwatko, G., & Suzuki, K. *28th Annual Meeting of the Association for the Scientific Study of Consciousness (ASSC 28)*, Crete, 2025.
+
+**Phenomenologically distinct and intensity-varied VR hallucinations: A platform for simulating and studying altered conscious experience.** Motyka, P., Gacka, M., Ayres, C., Karasek, Pochwatko, G., & Suzuki, K. *Models of Consciousness 6*, Hokkaido, 2025.
+
+**Investigating the role of sensorimotor spatial dependencies in shaping conscious access to virtual 3D objects.** Motyka, P., Schwartzman, D. J., Seth, A. K., & Suzuki, K. *26th Annual Meeting of the Association for the Scientific Study of Consciousness (ASSC 26)*, 2023.

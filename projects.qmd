@@ -1,0 +1,31 @@
+---
+title: "Projects"
+---
+
+::: {.project}
+### Mapping the space of altered states of consciousness
+
+A preregistered study aimed at an empirically grounded classification of pharmacologically induced altered states. Participants (n = 739) rated the subjective dissimilarity between pairs of vividly remembered experiences associated with different psychoactive substances, and we modelled these ratings as distances in a geometric space using multidimensional scaling, complemented by PCA, UMAP and t-SNE. The first dimension separates ordinary and depressant- or stimulant-induced states from psychedelic and dissociative ones, the second spans the inhibition–stimulation axis.
+
+[With Gacka and Orłowski · manuscript in preparation · [code and data](https://github.com/Pawel-Motyka/MDS_ASC)]{.meta}
+:::
+
+::: {.project}
+### Simulated hallucinations in virtual reality
+
+An immersive VR platform for presenting phenomenologically distinct visual hallucinations at graded intensities, used to measure their subjective and physiological effects and to study altered perception under experimental control.
+
+[With Gacka, Ayres, Karasek, Pochwatko and Suzuki · presented at ASSC 28 and Models of Consciousness 6 (2025)]{.meta}
+:::
+
+::: {.project}
+### Sensorimotor regularities and conscious access
+
+A VR paradigm combining sensorimotor control tasks with continuous flash suppression to test whether objects whose motion depends lawfully on one's actions gain faster access to awareness than objects moving randomly.
+
+[With Schwartzman, Seth and Suzuki · [Consciousness and Cognition (2025)](https://doi.org/10.1016/j.concog.2025.103934)]{.meta}
+:::
+
+## Funding
+
+National Science Centre, Poland – Sonatina grant 2022/44/C/HS6/00068 (PI).

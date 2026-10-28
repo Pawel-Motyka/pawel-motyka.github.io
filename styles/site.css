@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;1,8..60,400&display=swap");
+
+/* ---------- general ---------- */
+main.content { max-width: 760px; }
+h1.title { font-size: 2.1rem; letter-spacing: -0.01em; }
+h2 { font-size: 1.35rem; margin-top: 2.4rem; padding-bottom: .35rem; border-bottom: 1px solid var(--pm-rule); }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.navbar { border-bottom: 1px solid var(--pm-rule); }
+.navbar-title { font-family: "Source Serif 4", Georgia, serif; font-weight: 500; }
+.lead-muted { color: var(--pm-muted); }
+
+/* ---------- home ---------- */
+.hero { display: flex; gap: 1.75rem; align-items: center; margin: 1.5rem 0 1.25rem; }
+.hero-photo { width: 132px; height: 132px; border-radius: 50%; object-fit: cover; flex: 0 0 auto; }
+.hero-monogram {
+  width: 132px; height: 132px; border-radius: 50%; flex: 0 0 auto;
+  display: grid; place-items: center;
+  font-family: "Source Serif 4", Georgia, serif; font-size: 2.6rem; color: var(--pm-accent);
+  border: 1px solid var(--pm-badge-border); background: var(--pm-badge-bg);
+}
+.hero-name { margin: 0 0 .3rem; font-family: "Source Serif 4", Georgia, serif; font-weight: 500; font-size: 2.2rem; line-height: 1.15; letter-spacing: -0.01em; }
+.hero .role { margin: 0; color: var(--pm-muted); line-height: 1.45; }
+.profile-links { display: flex; flex-wrap: wrap; gap: .5rem; margin: .9rem 0 0; }
+.profile-links a {
+  font-size: .85rem; padding: .18rem .65rem; border-radius: 999px;
+  border: 1px solid var(--pm-badge-border); color: var(--pm-badge-fg); background: var(--pm-badge-bg);
+}
+.profile-links a:hover { text-decoration: none; filter: brightness(0.97); }
+@media (max-width: 575px) {
+  .hero { flex-direction: column; align-items: flex-start; gap: 1rem; }
+  .hero-photo, .hero-monogram { width: 104px; height: 104px; font-size: 2rem; }
+}
+
+/* ---------- publications ---------- */
+.pub { display: grid; grid-template-columns: 3.4rem 1fr; gap: .75rem; padding: 1rem 0; border-bottom: 1px solid var(--pm-rule); }
+.pub:last-child { border-bottom: none; }
+.pub-year { font-family: "Source Serif 4", Georgia, serif; color: var(--pm-muted); padding-top: .05rem; }
+.pub-title { font-weight: 600; line-height: 1.35; }
+.pub-authors { font-size: .93rem; margin-top: .2rem; }
+.pub-authors strong { font-weight: 600; }
+.pub-venue { font-size: .93rem; color: var(--pm-muted); }
+.pub-links { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .45rem; }
+.badge-link {
+  font-size: .75rem; letter-spacing: .02em; padding: .08rem .5rem; border-radius: 4px;
+  border: 1px solid var(--pm-badge-border); background: var(--pm-badge-bg); color: var(--pm-badge-fg);
+}
+.badge-link:hover { text-decoration: none; filter: brightness(0.96); }
+@media (max-width: 575px) {
+  .pub { grid-template-columns: 1fr; gap: .15rem; }
+}
+
+/* ---------- projects & lists ---------- */
+.project { padding: .2rem 0 .6rem; }
+.project h3 { font-size: 1.12rem; margin-bottom: .35rem; }
+.meta { font-size: .9rem; color: var(--pm-muted); }
+.repo-list { list-style: none; padding-left: 0; }
+.repo-list li { padding: .55rem 0; border-bottom: 1px solid var(--pm-rule); }
+.repo-list li:last-child { border-bottom: none; }
+.repo-list code { font-size: .9rem; }

@@ -1,0 +1,53 @@
+# Publications – add a new entry at the top. Fields:
+#   title, authors (APA-style, "Motyka, P." is bolded automatically), year, venue,
+#   and any of: doi, preprint, code, data, pdf (full URLs).
+
+- title: "Investigating the role of sensorimotor spatial dependencies in shaping conscious access to virtual 3D objects"
+  authors: "Motyka, P., Schwartzman, D. J., Seth, A. K., & Suzuki, K."
+  year: 2025
+  venue: "Consciousness and Cognition, 135"
+  doi: https://doi.org/10.1016/j.concog.2025.103934
+  preprint: https://doi.org/10.1101/2024.12.30.630721
+  code: https://github.com/Pawel-Motyka/SMCVR
+
+- title: "No cardiac phase bias for threat-related distance perception under naturalistic conditions in immersive virtual reality"
+  authors: "Klotzsche, F., Motyka, P., Molak, A., Sahula, V., Darmová, B., Byrnes, C., Fajnerová, I., & Gaebler, M."
+  year: 2024
+  venue: "Royal Society Open Science, 11(10)"
+  doi: https://doi.org/10.1098/rsos.241072
+
+- title: "Perceptual awareness of optic flows paced optimally and non-optimally to walking speed"
+  authors: "Motyka, P., Kozłowska, Z., & Litwin, P."
+  year: 2021
+  venue: "Perception, 50(9), 797–818"
+  doi: https://doi.org/10.1177/03010066211034368
+  code: https://github.com/Pawel-Motyka/OPTVR
+
+- title: "Forward optic flow is prioritised in visual awareness independently of walking direction"
+  authors: "Motyka, P., Akbal, M., & Litwin, P."
+  year: 2021
+  venue: "PLoS ONE"
+  doi: https://doi.org/10.1371/journal.pone.0250905
+  code: https://github.com/Pawel-Motyka/SMPVR
+
+- title: "Tactile information counteracts the attenuation of rubber hand illusion attributable to increased visuo-proprioceptive divergence"
+  authors: "Litwin, P., Zybura, B., & Motyka, P."
+  year: 2020
+  venue: "PLoS ONE"
+  doi: https://doi.org/10.1371/journal.pone.0244594
+  code: https://github.com/Pawel-Motyka/RHI_TD
+
+- title: "Interactions between cardiac activity and conscious somatosensory perception"
+  authors: "Motyka, P., Grund, M., Forschack, N., Al, E., Villringer, A., & Gaebler, M."
+  year: 2019
+  venue: "Psychophysiology"
+  doi: https://doi.org/10.1111/psyp.13424
+  preprint: https://doi.org/10.1101/529636
+  code: https://github.com/Pawel-Motyka/CCSomato
+
+- title: "Proprioceptive precision and degree of visuo-proprioceptive discrepancy do not influence the strength of the rubber hand illusion"
+  authors: "Motyka, P., & Litwin, P."
+  year: 2019
+  venue: "Perception"
+  doi: https://doi.org/10.1177/0301006619865189
+  code: https://github.com/Pawel-Motyka/RHI_proprioception
