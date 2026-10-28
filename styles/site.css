@@ -19,7 +19,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   font-family: "Source Serif 4", Georgia, serif; font-size: 2.6rem; color: var(--pm-accent);
   border: 1px solid var(--pm-badge-border); background: var(--pm-badge-bg);
 }
-.hero-name { margin: 0 0 .35rem; font-family: "Sitka Banner", "Sitka Text", "Source Serif 4", Georgia, serif; font-weight: 400; font-size: 2.4rem; line-height: 1.1; }
+.hero-name { margin: 0 0 .35rem; font-family: "Sitka Banner", "Sitka Text", "Source Serif 4", Georgia, serif; font-weight: 400; font-size: 2.1rem; line-height: 1.1; }
 .hero .role { margin: 0; color: var(--pm-muted); line-height: 1.45; }
 .profile-links { display: flex; flex-wrap: wrap; gap: .5rem; margin: .9rem 0 0; }
 .profile-links a {
