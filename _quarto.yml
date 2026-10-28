@@ -10,8 +10,7 @@ project:
 website:
   title: "Paweł Motyka"
   description: "Consciousness science, psychophysiology and virtual reality – Institute of Psychology, Polish Academy of Sciences."
-  # After the domain is connected, change this to https://pawelmotyka.com
-  site-url: https://pawel-motyka.github.io
+  site-url: https://pawelmotyka.com
   favicon: assets/favicon.svg
   open-graph: true
   navbar:
