@@ -14,6 +14,7 @@ title-block-banner: false
       <a href="https://orcid.org/0000-0001-5575-5601">ORCID</a>
       <a href="https://osf.io/56x6t">OSF</a>
       <a href="https://github.com/Pawel-Motyka">GitHub</a>
+      <a href="https://x.com/pawel_motyka">X</a>
       <a href="https://bsky.app/profile/pawelmotyka.bsky.social">Bluesky</a>
       <a href="mailto:pmotyka@psych.pan.pl">pmotyka@psych.pan.pl</a>
     </div>

@@ -15,7 +15,7 @@ website:
   favicon: assets/favicon.svg
   open-graph: true
   navbar:
-    title: "Paweł Motyka"
+    title: "dr Paweł Motyka"
     left:
       - href: publications.qmd
         text: Publications
