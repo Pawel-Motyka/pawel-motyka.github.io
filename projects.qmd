@@ -13,7 +13,7 @@ A preregistered study aimed at an empirically grounded classification of pharmac
 ::: {.project}
 ### Simulated hallucinations in virtual reality
 
-An immersive VR platform for presenting phenomenologically distinct visual hallucinations at graded intensities, used to measure their subjective and physiological effects and to study altered perception under experimental control.
+Studies with the VR Hallucination Machine, in which machine-learning algorithms distort the participant's view to evoke hallucination-like experiences. The type and intensity of the distortions are under experimental control, which allows the induced states to be arranged into planned sequences. The studies combine time-perception measures, free descriptions of the state, and eye-tracking and electrocardiography.
 
 [With Gacka, Ayres, Karasek, Pochwatko and Suzuki · presented at ASSC 28 and Models of Consciousness 6 (2025)]{.meta}
 :::
@@ -28,4 +28,8 @@ A VR paradigm combining sensorimotor control tasks with continuous flash suppres
 
 ## Funding
 
-National Science Centre, Poland – Sonatina grant 2022/44/C/HS6/00068 (PI).
+All grants from the National Science Centre, Poland (PI).
+
+- **Sonatina** 2022/44/C/HS6/00068 (2022–2025) – the sense of temporal continuity between episodes of altered perceptual experience
+- **Etiuda** 2019/32/T/HS6/00137 (2019–2021) – the informational role of sensorimotor bodily states in shaping the contents of visual awareness
+- **Preludium** 2016/23/N/HS6/02920 (2017–2022) – sensorimotor determinants of the dynamics of perceptual awareness

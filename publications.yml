@@ -1,20 +1,27 @@
 # Publications – add a new entry at the top. Fields:
 #   title, authors (APA-style, "Motyka, P." is bolded automatically), year, venue,
-#   and any of: doi, preprint, code, data, pdf (full URLs).
+#   optional note, and any of: doi, preprint, code, data, pdf, link (full URLs).
 
 - title: "Investigating the role of sensorimotor spatial dependencies in shaping conscious access to virtual 3D objects"
   authors: "Motyka, P., Schwartzman, D. J., Seth, A. K., & Suzuki, K."
   year: 2025
-  venue: "Consciousness and Cognition, 135"
+  venue: "Consciousness and Cognition, 135, 103934"
   doi: https://doi.org/10.1016/j.concog.2025.103934
   preprint: https://doi.org/10.1101/2024.12.30.630721
   code: https://github.com/Pawel-Motyka/SMCVR
 
 - title: "No cardiac phase bias for threat-related distance perception under naturalistic conditions in immersive virtual reality"
-  authors: "Klotzsche, F., Motyka, P., Molak, A., Sahula, V., Darmová, B., Byrnes, C., Fajnerová, I., & Gaebler, M."
+  authors: "Klotzsche, F.*, Motyka, P.*, Molak, A., Sahula, V., Darmová, B., Byrnes, C., Fajnerová, I., & Gaebler, M."
   year: 2024
-  venue: "Royal Society Open Science, 11(10)"
+  venue: "Royal Society Open Science, 11(10), 241072"
+  note: "* shared first authorship"
   doi: https://doi.org/10.1098/rsos.241072
+
+- title: "Physiological arousal underlies preferential access to visual awareness of fear-conditioned (and possibly disgust-conditioned) stimuli"
+  authors: "Litwin, P., Motyka, P., & Gayet, S."
+  year: 2024
+  venue: "Emotion, 24(3), 718"
+  doi: https://doi.org/10.1037/emo0001296
 
 - title: "Perceptual awareness of optic flows paced optimally and non-optimally to walking speed"
   authors: "Motyka, P., Kozłowska, Z., & Litwin, P."
@@ -26,21 +33,27 @@
 - title: "Forward optic flow is prioritised in visual awareness independently of walking direction"
   authors: "Motyka, P., Akbal, M., & Litwin, P."
   year: 2021
-  venue: "PLoS ONE"
+  venue: "PLoS ONE, 16(5), e0250905"
   doi: https://doi.org/10.1371/journal.pone.0250905
   code: https://github.com/Pawel-Motyka/SMPVR
 
 - title: "Tactile information counteracts the attenuation of rubber hand illusion attributable to increased visuo-proprioceptive divergence"
   authors: "Litwin, P., Zybura, B., & Motyka, P."
   year: 2020
-  venue: "PLoS ONE"
+  venue: "PLoS ONE, 15(12), e0244594"
   doi: https://doi.org/10.1371/journal.pone.0244594
   code: https://github.com/Pawel-Motyka/RHI_TD
+
+- title: "Heart–brain interactions shape somatosensory perception and evoked potentials"
+  authors: "Al, E., Iliopoulos, F., Forschack, N., Nierhaus, T., Grund, M., Motyka, P., Gaebler, M., Nikulin, V. V., & Villringer, A."
+  year: 2020
+  venue: "Proceedings of the National Academy of Sciences, 117(19), 10575–10584"
+  doi: https://doi.org/10.1073/pnas.1915629117
 
 - title: "Interactions between cardiac activity and conscious somatosensory perception"
   authors: "Motyka, P., Grund, M., Forschack, N., Al, E., Villringer, A., & Gaebler, M."
   year: 2019
-  venue: "Psychophysiology"
+  venue: "Psychophysiology, 56(10), e13424"
   doi: https://doi.org/10.1111/psyp.13424
   preprint: https://doi.org/10.1101/529636
   code: https://github.com/Pawel-Motyka/CCSomato
@@ -48,6 +61,26 @@
 - title: "Proprioceptive precision and degree of visuo-proprioceptive discrepancy do not influence the strength of the rubber hand illusion"
   authors: "Motyka, P., & Litwin, P."
   year: 2019
-  venue: "Perception"
+  venue: "Perception, 48(9), 882–891"
   doi: https://doi.org/10.1177/0301006619865189
   code: https://github.com/Pawel-Motyka/RHI_proprioception
+
+- title: "The effects of synchronization with either joyful or angry people on perception of an emotionally neutral person"
+  authors: "Biesaga, M., Motyka, P., & Nowak, A."
+  year: 2018
+  venue: "Social Psychological Bulletin, 13(4), e26821"
+  doi: https://doi.org/10.32872/spb.v13i4.26821
+
+- title: "Fractality of noesis"
+  authors: "Motyka, P."
+  year: 2018
+  venue: "Analiza i Egzystencja, 44, 25–40"
+  note: "In Polish (Fraktalność noezy)"
+  doi: https://doi.org/10.18276/aie.2018.44-02
+
+- title: "Cognition of other minds in perspective of mental representations resonance theory"
+  authors: "Motyka, P."
+  year: 2015
+  venue: "Rocznik Kognitywistyczny, 8, 23–34"
+  note: "In Polish (Poznawanie innych umysłów z perspektywy neurofenomenologicznej teorii rezonansu reprezentacji umysłowych)"
+  link: https://ejournals.eu/czasopismo/rocznik-kognitywistyczny/artykul/poznawanie-innych-umyslow-z-perspektywy-neurofenomenologicznej-teorii-rezonansu-reprezentacji-umyslowych

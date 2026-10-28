@@ -5,12 +5,10 @@ title-block-banner: false
 
 ```{=html}
 <div class="hero">
-  <!-- To use a photo: put it in assets/photo.jpg and replace the next line with
-       <img class="hero-photo" src="assets/photo.jpg" alt="Paweł Motyka"> -->
-  <div class="hero-monogram" aria-hidden="true">PM</div>
+  <img class="hero-photo" src="assets/photo.jpg" alt="Paweł Motyka">
   <div>
     <div class="hero-name">Paweł Motyka</div>
-    <p class="role">Assistant professor, Institute of Psychology, Polish Academy of Sciences<br>
+    <p class="role">Research assistant professor<br>Institute of Psychology, Polish Academy of Sciences<br>
     Virtual Reality and Psychophysiology Lab</p>
     <div class="profile-links">
       <a href="https://orcid.org/0000-0001-5575-5601">ORCID</a>
@@ -23,22 +21,18 @@ title-block-banner: false
 </div>
 ```
 
-I study the structure of conscious experience and how it changes across ordinary and altered states. My work sits between consciousness science, psychophysiology and virtual reality: I use immersive VR to manipulate perception under controlled conditions, record bodily signals alongside it, and model first-person reports quantitatively to recover the dimensions along which experiences differ.
-
-I trained in psychology and philosophy of mind at the University of Warsaw and received my PhD in 2022. I have carried out research stays at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, the Sussex Centre for Consciousness Science, and the Center for Human Nature, Artificial Intelligence and Neuroscience (CHAIN) at Hokkaido University.
+I am a research assistant professor at the Polish Academy of Sciences, with a background in psychology and philosophy. My earlier work examined interactions between bodily and exteroceptive modalities in shaping perceptual experience. Currently, I develop a geometric framework modeling the stream of consciousness as a trajectory through experiential state space – exploring how the structure of transitions relates to the sense of self and time, whose distortions are a hallmark of altered states of consciousness. Two empirical lines develop in parallel with the framework: (i) deriving the state space bottom-up from dissimilarity ratings between altered states; (ii) investigating parametrically varied VR-simulated hallucinations – their subjective and physiological effects – as a non-pharmacological route to controlled sequences of altered experience. I have held research stays at the Max Planck Institute, Sussex Centre for Consciousness Science, and Hokkaido University, and teach consciousness science and experimental psychology at the University of Warsaw.
 
 ## Research
 
-**The space of altered states.** Which dimensions organise the landscape of human-accessible states of consciousness? I approach this bottom-up, by modelling subjective dissimilarities between remembered experiences as distances in a geometric space.
+**Mapping the space of altered states.** I reconstruct the space of conscious states from dissimilarity ratings between experiences induced by different psychoactive substances, and from natural language processing of first-person reports – including reports from psychopathological and neurological conditions.
 
-**Simulated hallucinations in VR.** I develop immersive simulations of phenomenologically distinct visual hallucinations of graded intensity and use them to study the subjective and physiological effects of altered perception.
+**VR-simulated hallucinations.** In the VR Hallucination Machine, machine-learning algorithms distort the participant's view and evoke hallucination-like experiences. Because the type and intensity of the distortions are under experimental control, the induced states – more or less distant from everyday experience – can be arranged into planned sequences. These studies combine time-perception measures, free descriptions of the state, and physiological indices (eye-tracking and electrocardiography).
 
-**Body, action and awareness.** Earlier work examined how cardiac activity, proprioception and locomotion shape what reaches visual and somatosensory awareness, and how sensorimotor regularities affect conscious access to objects.
+**Body, action and awareness.** My earlier empirical work examined how bodily and sensory signals shape perception – spanning binocular rivalry, multisensory body ownership, and cardiac influences on somatosensory and visual perception. My doctoral thesis (2022) addressed how body movement shapes visual experience during binocular rivalry.
 
-**First-person reports as data.** With students, I apply natural language processing to large collections of first-person reports of altered states.
-
-All studies are preregistered where possible, and code and data are shared openly – see [Code & data](code.qmd).
+Code and data for published studies are openly available – see [Code & data](code.qmd).
 
 ## Teaching
 
-I teach *Consciousness Science: Phenomena and Mechanisms* at the University of Warsaw.
+University of Warsaw: *Consciousness Science: Phenomena and Mechanisms* (seminar) and *Experimental Psychology* (classes).

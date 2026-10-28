@@ -40,6 +40,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .pub-authors { font-size: .93rem; margin-top: .2rem; }
 .pub-authors strong { font-weight: 600; }
 .pub-venue { font-size: .93rem; color: var(--pm-muted); }
+.pub-note { font-style: normal; }
 .pub-links { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .45rem; }
 .badge-link {
   font-size: .75rem; letter-spacing: .02em; padding: .08rem .5rem; border-radius: 4px;
